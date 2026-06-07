@@ -110,7 +110,7 @@ User (Telegram)
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/agentic-newsroom.git
+git clone https://github.com/muhammad-sajid17/multiagent-blog-auomation.git
 cd agentic-newsroom
 ```
 
