@@ -1,0 +1,9 @@
+python-telegram-bot>=20.0
+langchain-google-genai
+google-generativeai
+tavily-python
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+python-dotenv
+pydantic
