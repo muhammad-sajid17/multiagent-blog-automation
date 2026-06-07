@@ -110,8 +110,8 @@ User (Telegram)
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/muhammad-sajid17/multiagent-blog-auomation.git
-cd agentic-newsroom
+git clone https://github.com/muhammad-sajid17/multiagent-blog-automation.git
+cd muliagent-blog-automation
 ```
 
 **2. Create and activate a virtual environment**
