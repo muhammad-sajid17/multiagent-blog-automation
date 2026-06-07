@@ -1,0 +1,18 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Authentication tokens (CRITICAL)
+token.json
+credentials.json
+
+# IDEs
+.vscode/
+.idea/
